@@ -1,4 +1,4 @@
-# User Management (CRUD) Web Application.
+# User Management Web Application (CRUD SPA)
 ![image](https://github.com/xignp/laravel10-vue3-inertia-example/assets/51684013/e3d634ff-86c5-4186-88ee-900d80da8ba4)
 
 To see other previews, look at the bottom.
